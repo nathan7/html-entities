@@ -1,0 +1,9 @@
+{
+  "name": "html-entities",
+  "repo": "nathan7/html-entities",
+  "description": "HTML entities in JSON",
+  "version": "1.0.0",
+  "keywords": [ "html", "entities" ],
+  "license": "MIT",
+  "scripts": [ "html-entities.json" ]
+}
