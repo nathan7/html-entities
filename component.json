@@ -2,7 +2,7 @@
   "name": "html-entities",
   "repo": "nathan7/html-entities",
   "description": "HTML entities in JSON",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [ "html", "entities" ],
   "license": "MIT",
   "scripts": [ "index.js" ]
