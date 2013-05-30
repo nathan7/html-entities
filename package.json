@@ -2,7 +2,7 @@
   "name": "html-entities",
   "version": "1.0.0",
   "description": "HTML entities in JSON",
-  "main": "html-entities.json",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/nathan7/html-entities.git"
